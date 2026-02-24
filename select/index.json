@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "EXISTED",
+  "base_artist": "WesGhost",
+  "createdAt": "2026-02-24T21:44:59.120260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like I Never Existed",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/01_Like_I_Never_Existed_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Band That Never Existed",
+      "artist": "Vanilla Ninja",
+      "has_synced": true,
+      "path": "select/02_The_Band_That_Never_Existed_Vanilla_Ninja.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Forgot That You Existed",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_I_Forgot_That_You_Existed_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Forgot That Love Existed",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/04_I_Forgot_That_Love_Existed_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nostalgia for an Age That Never Existed",
+      "artist": "Jello Biafra & Mojo Nixon & the Toadliquors",
+      "has_synced": false,
+      "path": "select/05_Nostalgia_for_an_Age_That_Never_Existed_Jello_Biafra_&_Mojo_Nixon_&_the_Toadliquors.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Existed",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/06_Existed_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Forgot That You Existed",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/07_I_Forgot_That_You_Existed_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Forgot That You Existed",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_I_Forgot_That_You_Existed_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "He Never Existed in the First Place",
+      "artist": "Brave Little Abacus",
+      "has_synced": false,
+      "path": "select/09_He_Never_Existed_in_the_First_Place_Brave_Little_Abacus.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Forgot That You Existed",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_I_Forgot_That_You_Existed_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Forgot That You Existed",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_I_Forgot_That_You_Existed_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Existed",
+      "artist": "lxst cxntury",
+      "has_synced": true,
+      "path": "select/12_Never_Existed_lxst_cxntury.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Forgot That You Existed (Karaoke Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/13_I_Forgot_That_You_Existed_(Karaoke_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EXISTED",
+      "artist": "WesGhost",
+      "has_synced": false,
+      "path": "select/pl_01_EXISTED_WesGhost.txt"
+    }
+  ]
+}
